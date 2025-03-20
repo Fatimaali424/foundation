@@ -33,14 +33,8 @@ export default function Contact(){
           </div>
           <div className="flex items-center justify-center space-x-2 text-red-600">
             <FaEnvelope />
-            <a href="mailto:salmanfarhan508@gmail.com" className="text-lg font-medium hover:underline hover:text-pink-700">
-            salmanfarhan508@gmail.com
-            </a>
-          </div>
-          <div className="flex items-center justify-center space-x-2 text-red-600">
-            <FaEnvelope />
-            <a href="mailto:Ayeshali00715@gmail.com" className="text-lg font-medium hover:underline hover:text-pink-700">
-            Ayeshali00715@gmail.com
+            <a href="mailto:ammanahfoundation@gmail.com" className="text-lg font-medium hover:underline hover:text-pink-700">
+             ammanahfoundation@gmail.com
             </a>
           </div>
         </div>
